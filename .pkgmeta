@@ -1,0 +1,6 @@
+ignore:
+    - source 
+    - .gitattributes
+    - .gitignore
+
+manual-changelog: CHANGELOG.txt
